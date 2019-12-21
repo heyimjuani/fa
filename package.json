@@ -1,0 +1,19 @@
+{
+  "name": "bono",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve . -p ${PORT:-4000}"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.aerolab.co:robert/bono-calculator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^10.1.2"
+  }
+}
